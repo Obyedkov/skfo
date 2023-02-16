@@ -13,3 +13,4 @@ $write = new ShopProductWriter();
 $write->write($product);
 
 
+
