@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d916a17b-8458-4d80-9568-9d115dec41b0" name="Changes" comment="Сайт СКФО">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopProductWriter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +56,10 @@
       <workItem from="1676037207800" duration="614000" />
       <workItem from="1676293386668" duration="2595000" />
       <workItem from="1676320398516" duration="879000" />
-      <workItem from="1676559725694" duration="1040000" />
+      <workItem from="1676559725694" duration="1697000" />
+      <workItem from="1677354667179" duration="21000" />
+      <workItem from="1677354689511" duration="4688000" />
+      <workItem from="1677436392640" duration="1818000" />
     </task>
     <task id="LOCAL-00001" summary="Сайт СКФО">
       <created>1676559849464</created>
@@ -75,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676560421062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Сайт СКФО">
+      <created>1676560821272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676560821272</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сайт СКФО" />
