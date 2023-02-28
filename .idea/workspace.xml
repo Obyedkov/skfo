@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d916a17b-8458-4d80-9568-9d115dec41b0" name="Changes" comment="Сайт СКФО">
+    <list default="true" id="d916a17b-8458-4d80-9568-9d115dec41b0" name="Changes" comment="Создал регистрация">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbconn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/graphql-logo-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopProduct.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopProductWriter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +29,17 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="2KuhxEebU6rsShupch4j2Q5JVH6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -41,6 +51,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\skfo\templates" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +74,11 @@
       <workItem from="1676559725694" duration="1697000" />
       <workItem from="1677354667179" duration="21000" />
       <workItem from="1677354689511" duration="4688000" />
-      <workItem from="1677436392640" duration="1818000" />
+      <workItem from="1677436392640" duration="4660000" />
+      <workItem from="1677502749695" duration="3351000" />
+      <workItem from="1677515567898" duration="2805000" />
+      <workItem from="1677530068552" duration="1827000" />
+      <workItem from="1677570763211" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="Сайт СКФО">
       <created>1676559849464</created>
@@ -89,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676560821272</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Создал регистрация">
+      <created>1677438335057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677438335057</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +134,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Сайт СКФО" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сайт СКФО" />
+    <MESSAGE value="Создал регистрация" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создал регистрация" />
   </component>
 </project>
