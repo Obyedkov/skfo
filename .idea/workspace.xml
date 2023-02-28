@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d916a17b-8458-4d80-9568-9d115dec41b0" name="Changes" comment="Создал регистрация">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbconn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/graphql-logo-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/layout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.php" afterDir="false" />
+    <list default="true" id="d916a17b-8458-4d80-9568-9d115dec41b0" name="Changes" comment="Добавил несколько файлы подключении шаблоны и создал базы данных">
+      <change afterPath="$PROJECT_DIR$/templates/main.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +74,9 @@
       <workItem from="1677515567898" duration="2805000" />
       <workItem from="1677530068552" duration="1827000" />
       <workItem from="1677570763211" duration="1270000" />
+      <workItem from="1677572243801" duration="220000" />
+      <workItem from="1677574738006" duration="6791000" />
+      <workItem from="1677602629099" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="Сайт СКФО">
       <created>1676559849464</created>
@@ -115,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677438335057</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавил несколько файлы подключении шаблоны и создал базы данных">
+      <created>1677572355625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677572355625</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +142,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Сайт СКФО" />
     <MESSAGE value="Создал регистрация" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал регистрация" />
+    <MESSAGE value="Добавил несколько файлы подключении шаблоны и создал базы данных" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил несколько файлы подключении шаблоны и создал базы данных" />
   </component>
 </project>
